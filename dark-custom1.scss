@@ -1,0 +1,53 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+// colors
+$body-bg: #0c2440 !default;
+$body-color: #f3dbbf !default;
+
+
+$link-color: #e7ad52 !default;
+$link-decoration:                         underline !default;
+$link-shade-percentage:                   20% !default;
+$link-hover-color:                        shift-color($link-color, $link-shade-percentage) !default;
+$link-hover-decoration:                   null !default;
+
+
+$selection-bg: #e7ad52 !default;
+
+
+// inline code
+
+$code-color: #8ec66d !default;
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #f3dbbf !default;
+
+
+/*-- scss:rules --*/
+
+.red{
+  color: $red;
+  font-weight: bold;
+}
+
+.blue{
+  color: #7ad9ff;
+  font-weight: bold;
+}
+
+.yellow{
+  color: $yellow;
+  font-weight: bold;
+}
+
+.highlight{
+  color: #e7ad52;
+  font-weight: bold;
+}
+
