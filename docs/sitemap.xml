@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://isaiahespi.github.io/espi-web/about.html</loc>
-    <lastmod>2023-05-08T21:07:56.564Z</lastmod>
+    <lastmod>2023-05-08T21:16:10.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaiahespi.github.io/espi-web/hypothesis.html</loc>
+    <lastmod>2023-05-08T21:16:10.543Z</lastmod>
   </url>
   <url>
     <loc>https://isaiahespi.github.io/espi-web/index.html</loc>
-    <lastmod>2023-05-08T21:07:45.002Z</lastmod>
+    <lastmod>2023-05-08T21:16:12.076Z</lastmod>
   </url>
 </urlset>
