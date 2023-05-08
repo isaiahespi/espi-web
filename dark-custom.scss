@@ -1,5 +1,37 @@
 /*-- scss:defaults --*/
 
+
+/* -- define Sass vars --*/
+$darkblue: #192742;
+$darkblue-100: #303d55;
+$zombie: #e8da9b;
+$chamois: #eadea5;
+$blue-zodiac: #0c2440;
+$sidecar: #f3dbbf;
+$anzac: #e7ad52;
+$orange: #faa651;
+$purple: #caaaea;
+$turquoise: #3ecdc2;
+$mint-green: #abfca7;
+$river-bed: #414b5f;
+$green-mist: #ced2b0;
+
+// Base document colors
+$navbar-bg: $darkblue-100; // navbar
+$navbar-fg: $green-mist; // navbar foreground elements
+$navbar-hl: $sidecar; // highlight color when hovering over navbar links
+$body-bg: $darkblue; // page background 
+$body-color: $green-mist; // page text 
+$link-color: $turquoise; // hyperlinks 
+
+// Inline code
+$code-color: $orange; // inline code text color
+
+// Code blocks
+$code-block-bg: $river-bed; // code block background color
+
+
+
 // fonts
 $font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
   FreeSerif, serif !default;

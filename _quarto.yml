@@ -3,19 +3,40 @@ project:
   output-dir: docs
 
 website:
-  title: "Espi Website"
-  navbar:
+  title: "Espi Web"
+  favicon: images/logo.png
+  site-url: https://isaiahespi.github.io/espi-web/
+  repo-url: https://github.com/isaiahespi/espi-web
+  reader-mode: true
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    left: "Copyright 2023, Isaiah Espinoza"
+    right:
+      - icon: github
+        href: https://github.com/isaiahespi
+        aria-label: GitHub
+  navbar: 
+    title: false
+    logo: images/logo2.png
+    logo-alt: "Korean name seal"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  sidebar: 
+    style: docked
+    contents: auto
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
 
 format:
   html:
-    theme: solar
-    mainfont: Palatino Linotype
+    theme: 
       dark: [solar, dark-custom.scss]
       light: [solar, light-custom.scss]
-    css: styles.css
     toc: true
 
