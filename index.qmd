@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Espi Web!"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+Hi. I'm Isaiah. This is my website. I made it using [Quarto](https://quarto.org/docs/websites). It's a work in progress.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+
+Here is an example of `inline code` so that I can verify its look.

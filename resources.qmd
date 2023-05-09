@@ -2,6 +2,8 @@
 title: "Resources"
 ---
 
+This is continuously being updated. So far it is a list of resources I have found that is either useful or potentially useful. Some of these I have used so often, others I have not ever utilized but saved anyway. I'm updating and organizing this page as you read this.
+
 # Links to books
 
 -   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)

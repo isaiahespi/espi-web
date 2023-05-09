@@ -9,16 +9,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Espi Web!",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThe echo: false option disables the printing of code (only output is displayed).\n\n\n\n Back to top"
+    "text": "Hi. I’m Isaiah. This is my website. I made it using Quarto. It’s a work in progress.\n\n1 + 1\n\n[1] 2\n\n\nHere is an example of inline code so that I can verify its look.\n\n\n\n Back to top"
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Links to books\n\nR Markdown: The Definitive Guide\n\nAbsolute Must.\n\nR Markdown Cookbook\nR Cookbook, 2nd Edition\nR Companion to Real Econometrics\nR For Data Science\nModerndive: Statistical Inference via Data Science\n\nAlso see Learn the tidyverse which provides links to a few more related topics.\n\nSTAT 545: Data Wrangling, Exploration, and Analysis with R\n\nThis site is about everything that comes up during data analysis except for statistical modelling and inference.\n\nR for Researchers: An Introduction\nR Graphics Cookbook, 2nd edition\nR Programming for Data Science\nHands-On Programming with R\nR Packages (2e)\nR Books\n\n“A curated list of books about different aspects and applications of R programming language and an attempt to modernize R Books in a more user friendly way.”\n\nBookdown: Write HTML, PDF, ePub, and Kindle books with R Markdown\n\nThis leads to another list of books that are helpful for authoring books.\nHere is an archive that lists even more books from bookdown\n\nThe actual bookdown book by Yihui Xie\nRMarkdown for Scientists\nExploratory Data Analysis with R\nTelling Stories with Data With Applications in R\nAdvanced R\n\nYeah right. One day I’ll get into this. No I won’t.\n\nThe Effect: An Introduction to Research Design and Causality\nFoundations of Statistics with R\nLearning statistics with R: A tutorial for psychology students and other beginners\nLearning Statistics with R\nR for Psychological Science\nMastering Shiny\nThe Data Preparation Journey: Finding Your Way With R\n\nThis appears to be a work in progress but there’s a lot that seems useful.\n\nSocial Science Theory\n\nThis is more of like a list of many social science theories.\n\n\n\n\nBooks and Documentation related to various R Packages\n\nOfficeverse\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[](https://tutorials.quanteda.io/-\n\n\n\n\n\n Back to top"
+    "text": "This is continuously being updated. So far it is a list of resources I have found that is either useful or potentially useful. Some of these I have used so often, others I have not ever utilized but saved anyway. I’m updating and organizing this page as you read this.\n\nLinks to books\n\nR Markdown: The Definitive Guide\n\nAbsolute Must.\n\nR Markdown Cookbook\nR Cookbook, 2nd Edition\nR Companion to Real Econometrics\nR For Data Science\nModerndive: Statistical Inference via Data Science\n\nAlso see Learn the tidyverse which provides links to a few more related topics.\n\nSTAT 545: Data Wrangling, Exploration, and Analysis with R\n\nThis site is about everything that comes up during data analysis except for statistical modelling and inference.\n\nR for Researchers: An Introduction\nR Graphics Cookbook, 2nd edition\nR Programming for Data Science\nHands-On Programming with R\nR Packages (2e)\nR Books\n\n“A curated list of books about different aspects and applications of R programming language and an attempt to modernize R Books in a more user friendly way.”\n\nBookdown: Write HTML, PDF, ePub, and Kindle books with R Markdown\n\nThis leads to another list of books that are helpful for authoring books.\nHere is an archive that lists even more books from bookdown\n\nThe actual bookdown book by Yihui Xie\nRMarkdown for Scientists\nExploratory Data Analysis with R\nTelling Stories with Data With Applications in R\nAdvanced R\n\nYeah right. One day I’ll get into this. No I won’t.\n\nThe Effect: An Introduction to Research Design and Causality\nFoundations of Statistics with R\nLearning statistics with R: A tutorial for psychology students and other beginners\nLearning Statistics with R\nR for Psychological Science\nMastering Shiny\nThe Data Preparation Journey: Finding Your Way With R\n\nThis appears to be a work in progress but there’s a lot that seems useful.\n\nSocial Science Theory\n\nThis is more of like a list of many social science theories.\n\n\n\n\nBooks and Documentation related to various R Packages\n\nOfficeverse\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[](https://tutorials.quanteda.io/-\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "tutorial-1.html",
@@ -32,6 +32,6 @@
     "href": "tutorials.html",
     "title": "Tutorials",
     "section": "",
-    "text": "Back to top"
+    "text": "As I figure out how to do useful things, I will add tutorials. I have many but none are ready to be published here. Check back soon.\n\n\n\n Back to top"
   }
 ]
