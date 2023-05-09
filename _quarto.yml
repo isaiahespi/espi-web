@@ -7,7 +7,6 @@ website:
   favicon: images/logo.png
   site-url: https://isaiahespi.github.io/espi-web/
   repo-url: https://github.com/isaiahespi/espi-web
-  reader-mode: true
   search:
     location: navbar
     type: overlay
@@ -21,18 +20,22 @@ website:
     title: false
     logo: images/logo2.png
     logo-alt: "Korean name seal"
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url: https://github.com/isaiahespi/espi-web
+          - text: Github Profile
+            url: https://github.com/isaiahespi
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - hypothesis.qmd
+      - tutorials.qmd
   comments: 
     hypothesis:
       theme: clean
       openSidebar: false
-  sidebar: 
-    style: docked
-    contents: auto
 
 format:
   html:
