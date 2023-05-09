@@ -10,12 +10,17 @@ website:
   search:
     location: navbar
     type: overlay
+  back-to-top-navigation: true
   page-footer:
     left: "Copyright 2023, Isaiah Espinoza"
     right:
       - icon: github
         href: https://github.com/isaiahespi
         aria-label: GitHub
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
   navbar: 
     title: false
     logo: images/logo2.png
@@ -28,14 +33,13 @@ website:
           - text: Github Profile
             url: https://github.com/isaiahespi
     left:
-      - href: index.qmd
+      - file: index.qmd
         text: Home
       - about.qmd
       - tutorials.qmd
-  comments: 
-    hypothesis:
-      theme: clean
-      openSidebar: false
+      - file: resources.qmd
+        text: Resources
+  
 
 format:
   html:

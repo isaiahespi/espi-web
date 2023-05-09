@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-Hi. I'm Isaiah. This is my website.
-
-I don't know what I'm doing here.
+Hi. I'm Isaiah. This is my website. It's a work in progress.
