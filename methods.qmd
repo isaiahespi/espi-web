@@ -1,0 +1,60 @@
+---
+title: "Methods"
+---
+
+# Resources: How to Methods
+
+An unorganized list of links to resources that have helped, are helpful, or might be helpful. I have not curated this yet to be organized into different methods.
+
+
+-   [psyTeachR](https://psyteachr.github.io/)
+    -   This resource is incredible. Just check it out.
+    -   "The psyTeachR team at the University of Glasgow [School of Psychology and Neuroscience](https://www.gla.ac.uk/schools/psychologyneuroscience/) has successfully made the transition to teaching reproducible research using R across all undergraduate and postgraduate levels. Our curriculum now emphasizes essential ‘data science’ graduate skills that have been overlooked in traditional approaches to teaching, including programming skills, data visualisation, data wrangling and reproducible reports. Students learn about probability and inference through data simulation as well as by working with real datasets."
+    -   "This website contains our open materials for teaching reproducible research. See our [GitHub](https://github.com/PsyTeachR) for open data and code."
+
+
+-   [Growth Curve Modeling](https://rstudio-pubs-static.s3.amazonaws.com/194877_ddcd13cde8b84366a6b033edec33b8fc.html)
+-   [Graphical & Latent Variable Modeling](https://m-clark.github.io/sem/)
+    -   Pretty good intro/information on Structural Equation Modeling (e.g., latent variable modeling) by Michael Clark (I don't know him). 
+-   [](https://lavaan.ugent.be/tutorial/index.html)
+-   [](https://stats.oarc.ucla.edu/r/dae/mixed-effects-logistic-regression/)
+-   [](https://stats.oarc.ucla.edu/other/mult-pkg/introduction-to-generalized-linear-mixed-models/)
+-   [](https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/)
+-   [](https://ladal.edu.au/regression.html#Introduction)
+-   [](https://data.library.virginia.edu/a-beginners-guide-to-marginal-effects/#fnref2)
+-   [](https://data.library.virginia.edu/correlation-of-fixed-effects-in-lme4/)
+-   [](https://sebastiansauer.github.io/convert_logit2prob/#:~:text=Conversion%20rule,%2F%20(1%20%2B%20odds)%20.)
+-   [](https://data.library.virginia.edu/getting-started-with-multinomial-logit-models/)
+-   [](https://data.library.virginia.edu/understanding-empirical-cumulative-distribution-functions/)
+-   [](https://data.library.virginia.edu/understanding-q-q-plots/)
+-   [](https://data.library.virginia.edu/diagnostic-plots/)
+-   [](https://data.library.virginia.edu/comparing-mixed-effect-models-in-r-and-spss/)
+-   [](https://data.library.virginia.edu/category/statlab-articles/)
+-   [](https://data.library.virginia.edu/a-beginners-guide-to-marginal-effects/)
+-   [](https://data.library.virginia.edu/getting-started-with-generalized-estimating-equations/)
+-   [](https://data.library.virginia.edu/getting-started-with-binomial-generalized-linear-mixed-models/)
+-   [](https://data.library.virginia.edu/getting-started-with-web-scraping-in-python/)
+-   [](https://slcladal.github.io/regression.html#1_Fixed_Effects_Regression)
+-   [](https://data.library.virginia.edu/mathematical-annotation-in-r/)
+-   [](https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/)
+-   [](https://www.andrewheiss.com/blog/2021/11/10/ame-bayes-re-guide/)
+-   [](https://www.andrewheiss.com/blog/)
+-   [](http://www.rensenieuwenhuis.nl/r-sessions-16-multilevel-model-specification-lme4/)
+-   [](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
+-   [](https://rpsychologist.com/r-guide-longitudinal-lme-lmer)
+-   [](https://m-clark.github.io/mixed-models-with-R/)
+-   [](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/multilevel-models.html)
+-   [](https://methods-sagepub-com.proxy-um.researchport.umd.edu/)
+-   [](https://rpubs.com/hauselin/reliabilityanalysis)
+-   [](https://towardsdatascience.com/exploratory-factor-analysis-in-r-e31b0015f224)
+-   [](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize--    []standardize-rescale-your-data-3f083def38ff)
+(https://www.theanalysisfactor.com/rescaling-variables-to-be-same/)
+-   [](https://www.theanalysisfactor.com/centering-and-standardizing-predictors/)-   []
+(https://www.thoughtco.com/index-for-research-3026543)
+-   [](https://www.thoughtco.com/scales-used-in-social-science-research-30265-   []42)
+(https://www.thoughtco.com/cluster-analysis-3026694)
+-   [](https://www.thoughtco.com/principal-factor-analysis-3026699)
+-   [](https://sebastiansauer.github.io/convert_logit2prob/)
+-   [](http://www.alastairsanderson.com/R/tutorials/robust-regression-in--   []R/)
+(https://www.poliscidata.com/pages/rDemosResources.php?chapter=14)-   []
+(https://www.poliscidata.com/pages/rDemosResources.php?chapter=8)

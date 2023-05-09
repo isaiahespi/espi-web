@@ -36,11 +36,25 @@ website:
       - file: index.qmd
         text: Home
       - about.qmd
-      - tutorials.qmd
-      - file: resources.qmd
-        text: Resources
-  
-
+      - sidebar:tutorials
+      - sidebar:resources
+  sidebar:
+    - id: tutorials
+      title: "Tutorials"
+      style: "docked"
+      background: dark
+      collapse-level: 2
+      contents:
+        - tutorials.qmd
+        
+    - id: resources
+      title: "Resources"
+      contents:
+        - resources.qmd
+        - books.qmd
+        - methods.qmd
+        
+        
 format:
   html:
     theme: 

@@ -1,0 +1,78 @@
+---
+title: "Books"
+---
+
+# Links to books
+
+-   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+    - Absolute Must.
+-   [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+-   [R Cookbook, 2nd Edition](https://rc2e.com/)
+-   [R Companion to Real Econometrics](https://bookdown.org/carillitony/bailey/)
+-   [R For Data Science](https://r4ds.had.co.nz/index.html)
+-   [Moderndive: Statistical Inference via Data Science](https://moderndive.com/index.html)
+    -   Also see [Learn the tidyverse](https://www.tidyverse.org/learn/) which provides links to a few more related topics.
+-   [STAT 545: Data Wrangling, Exploration, and Analysis with R](https://stat545.com/)
+    -   This site is about everything that comes up during data analysis [except for statistical modelling and inference]{.highlight}.
+-   [R for Researchers: An Introduction](https://tysonbarrett.com/Rstats/index.html)
+-   [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+
+-   [What They Forgot to Teach You About R:](https://rstats.wtf/) The stuff you need to know about R, besides statistical analysis.
+-   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+-   [R Packages (2e)](https://r-pkgs.org/)
+-   [R Books](https://github.com/RomanTsegelskyi/rbooks)
+    -   "A curated list of books about different aspects and applications of R programming language and an attempt to modernize R Books in a more user friendly way."
+-   [Bookdown: Write HTML, PDF, ePub, and Kindle books with R Markdown](https://bookdown.org/)
+    -   This leads to another list of books that are helpful for authoring books.
+    -   Here is an [archive](https://bookdown.org/home/archive/) that lists even more books from bookdown
+    -   [The actual bookdown book by Yihui Xie](https://bookdown.org/yihui/bookdown/)
+-   [RMarkdown for Scientists](https://rmd4sci.njtierney.com/)
+-   [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
+-   [Telling Stories with Data With Applications in R](https://tellingstorieswithdata.com/)
+-   [Advanced R](https://adv-r.hadley.nz/)
+    -   Yeah right. One day I'll read this. No I won't. 
+-   [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
+-   [Foundations of Statistics with R](https://bookdown.org/speegled/foundations-of-statistics/)
+-   [Learning statistics with R: A tutorial for psychology students and other beginners](https://learningstatisticswithr.com/book/)
+-   [Learning Statistics with R](https://learningstatisticswithr.com/)
+-   [R for Psychological Science](https://psyr.djnavarro.net/)
+-   [Mastering Shiny](https://mastering-shiny.org/)
+-   [The Data Preparation Journey: Finding Your Way With R](https://bookdown.org/martin_monkman/DataPreparationJourney_draft/)
+    -   This appears to be a work in progress but there's a lot that seems useful. 
+-   [Social Science Theory](https://bookdown.org/mike/social-theory/)
+    -   This is more of like a list of many social science theories.
+
+# Books and Documentation related to various R Packages
+
+-   [Officeverse](https://ardata-fr.github.io/officeverse/index.html)
+
+
+-   [](https://www.joshuapkeller.com/page/introregression/)
+-   [](https://ggplot2-book.org/index.html)
+-   [](https://rkabacoff.github.io/datavis/)
+-   [](http://asdfree.com/)
+-   [](https://benwhalley.github.io/just-enough-r/)
+-   [](https://adv-r.hadley.nz/index.html)
+-   [](https://design.tidyverse.org/)
+-   [](https://bookdown.org/bean_jerry/using_r_for_educational_research/)
+-   [](https://jslefche.github.io/sem_book/index.html)
+-   [](https://bookdown.org/yih_huynh/Guide-to-R-Book/)
+-   [](https://stefvanbuuren.name/fimd/)
+-   [](https://geanders.github.io/RProgrammingForResearch/)
+-   [](https://bookdown.org/kieranmarray/intro_to_r_for_econometrics/)
+-   [](https://dereksonderegger.github.io/570L/)
+-   [](https://opengovdata.io/)
+-   [](https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8)
+-   [](https://psyteachr.github.io/ads-v1/index.html)
+-   [](https://frederikaust.com/papaja_man/)
+-   [](https://hbiostat.org/rflow/)
+-   [](https://www.tidytextmining.com/index.html)
+-   [](https://bookdown.org/ejvanholm/WorkingWithData/)
+-   [](https://bookdown.org/ejvanholm/Textbook/)
+-   [](https://crumplab.com/programmingforpsych/index.html)
+-   [](https://bookdown.org/dli/rguide/)
+-   [](https://bookdown.org/tomholbrook12/bookdown-demo/)
+-   [](https://www.tidymodels.org/books/)
+-   [](https://socviz.co/)
+-   [](https://tutorials.quanteda.io/-    
