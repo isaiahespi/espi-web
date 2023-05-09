@@ -52,7 +52,9 @@ website:
       contents:
         - resources.qmd
         - books.qmd
+        - packages.qmd
         - methods.qmd
+
         
         
 format:

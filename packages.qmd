@@ -1,0 +1,34 @@
+
+# Books and Documentation related to various R Packages
+
+-   [Officeverse](https://ardata-fr.github.io/officeverse/index.html)
+
+
+-   (https://www.joshuapkeller.com/page/introregression/)
+-   (https://ggplot2-book.org/index.html)
+-   (https://rkabacoff.github.io/datavis/)
+-   (http://asdfree.com/)
+-   (https://benwhalley.github.io/just-enough-r/)
+-   (https://adv-r.hadley.nz/index.html)
+-   (https://design.tidyverse.org/)
+-   (https://bookdown.org/bean_jerry/using_r_for_educational_research/)
+-   (https://jslefche.github.io/sem_book/index.html)
+-   (https://bookdown.org/yih_huynh/Guide-to-R-Book/)
+-   (https://stefvanbuuren.name/fimd/)
+-   (https://geanders.github.io/RProgrammingForResearch/)
+-   (https://bookdown.org/kieranmarray/intro_to_r_for_econometrics/)
+-   (https://dereksonderegger.github.io/570L/)
+-   (https://opengovdata.io/)
+-   (https://trevorfrench.github.io/R-for-Data-Analysis/?es_id=aaa755b1d8)
+-   (https://psyteachr.github.io/ads-v1/index.html)
+-   (https://frederikaust.com/papaja_man/)
+-   (https://hbiostat.org/rflow/)
+-   (https://www.tidytextmining.com/index.html)
+-   (https://bookdown.org/ejvanholm/WorkingWithData/)
+-   (https://bookdown.org/ejvanholm/Textbook/)
+-   (https://crumplab.com/programmingforpsych/index.html)
+-   (https://bookdown.org/dli/rguide/)
+-   (https://bookdown.org/tomholbrook12/bookdown-demo/)
+-   (https://www.tidymodels.org/books/)
+-   (https://socviz.co/)
+-   (https://tutorials.quanteda.io/-    
