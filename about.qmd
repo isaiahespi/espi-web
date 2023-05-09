@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Hi. I'm Isaiah. This is my website. It's a work in progress.
+
