@@ -2,10 +2,19 @@
 title: "Methods"
 ---
 
-# Resources: How to Methods
+# Resources
 
-An unorganized list of links to resources that have helped, are helpful, or might be helpful. I have not curated this yet to be organized into different methods.
+An mostly unorganized list of links to resources that have helped, are helpful, or might be helpful. These are not books but instead a variety of online resources, tutorials, data banks, guides, short articles, blogs, and references for various method techniques. I have not curated this yet to be organized into different methods.
 
+## General comprehensive resources and references
+
+
+-   [Sage Research Methods](https://methods.sagepub.com/)
+    -   Really useful reference for research methods. Includes guides, video tutorials, reading lists, books, references, and much more.
+    -   May require institutional access
+
+-   [PoliSciData](https://www.poliscidata.com/index.php)
+    -   This should be more widely known as a central source for political scientists, especially to support ongoing data collection efforts. There's a lot here and all of it useful
 
 -   [psyTeachR](https://psyteachr.github.io/)
     -   This resource is incredible. Just check it out.
@@ -13,48 +22,90 @@ An unorganized list of links to resources that have helped, are helpful, or migh
     -   "This website contains our open materials for teaching reproducible research. See our [GitHub](https://github.com/PsyTeachR) for open data and code."
 
 
+-   [Foundations of Inference | PoliSciData](https://www.poliscidata.com/pages/rDemosResources.php?chapter=8)
+
+-   [Logistic Regression with R Tutorials | PoliSciData](https://www.poliscidata.com/pages/rDemosResources.php?chapter=14)
+    -   Where were you when I needed you?
+
 -   [Growth Curve Modeling](https://rstudio-pubs-static.s3.amazonaws.com/194877_ddcd13cde8b84366a6b033edec33b8fc.html)
 -   [Graphical & Latent Variable Modeling](https://m-clark.github.io/sem/)
     -   Pretty good intro/information on Structural Equation Modeling (e.g., latent variable modeling) by Michael Clark (I don't know him). 
--   [](https://lavaan.ugent.be/tutorial/index.html)
--   [](https://stats.oarc.ucla.edu/r/dae/mixed-effects-logistic-regression/)
--   [](https://stats.oarc.ucla.edu/other/mult-pkg/introduction-to-generalized-linear-mixed-models/)
--   [](https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/)
--   [](https://ladal.edu.au/regression.html#Introduction)
--   [](https://data.library.virginia.edu/a-beginners-guide-to-marginal-effects/#fnref2)
--   [](https://data.library.virginia.edu/correlation-of-fixed-effects-in-lme4/)
--   [](https://sebastiansauer.github.io/convert_logit2prob/#:~:text=Conversion%20rule,%2F%20(1%20%2B%20odds)%20.)
--   [](https://data.library.virginia.edu/getting-started-with-multinomial-logit-models/)
--   [](https://data.library.virginia.edu/understanding-empirical-cumulative-distribution-functions/)
--   [](https://data.library.virginia.edu/understanding-q-q-plots/)
--   [](https://data.library.virginia.edu/diagnostic-plots/)
--   [](https://data.library.virginia.edu/comparing-mixed-effect-models-in-r-and-spss/)
--   [](https://data.library.virginia.edu/category/statlab-articles/)
--   [](https://data.library.virginia.edu/a-beginners-guide-to-marginal-effects/)
--   [](https://data.library.virginia.edu/getting-started-with-generalized-estimating-equations/)
--   [](https://data.library.virginia.edu/getting-started-with-binomial-generalized-linear-mixed-models/)
--   [](https://data.library.virginia.edu/getting-started-with-web-scraping-in-python/)
--   [](https://slcladal.github.io/regression.html#1_Fixed_Effects_Regression)
--   [](https://data.library.virginia.edu/mathematical-annotation-in-r/)
--   [](https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/)
--   [](https://www.andrewheiss.com/blog/2021/11/10/ame-bayes-re-guide/)
--   [](https://www.andrewheiss.com/blog/)
--   [](http://www.rensenieuwenhuis.nl/r-sessions-16-multilevel-model-specification-lme4/)
--   [](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
--   [](https://rpsychologist.com/r-guide-longitudinal-lme-lmer)
--   [](https://m-clark.github.io/mixed-models-with-R/)
--   [](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/multilevel-models.html)
--   [](https://methods-sagepub-com.proxy-um.researchport.umd.edu/)
--   [](https://rpubs.com/hauselin/reliabilityanalysis)
--   [](https://towardsdatascience.com/exploratory-factor-analysis-in-r-e31b0015f224)
--   [](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize--    []standardize-rescale-your-data-3f083def38ff)
-(https://www.theanalysisfactor.com/rescaling-variables-to-be-same/)
--   [](https://www.theanalysisfactor.com/centering-and-standardizing-predictors/)-   []
-(https://www.thoughtco.com/index-for-research-3026543)
--   [](https://www.thoughtco.com/scales-used-in-social-science-research-30265-   []42)
-(https://www.thoughtco.com/cluster-analysis-3026694)
--   [](https://www.thoughtco.com/principal-factor-analysis-3026699)
--   [](https://sebastiansauer.github.io/convert_logit2prob/)
--   [](http://www.alastairsanderson.com/R/tutorials/robust-regression-in--   []R/)
-(https://www.poliscidata.com/pages/rDemosResources.php?chapter=14)-   []
-(https://www.poliscidata.com/pages/rDemosResources.php?chapter=8)
+-   [lavaan R package tutorial](https://lavaan.ugent.be/tutorial/index.html)
+-   [MIXED EFFECTS LOGISTIC REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.oarc.ucla.edu/r/dae/mixed-effects-logistic-regression/)
+    -   UCLA Statistical Methods and Data Analytics Data analysis example for Mixed effects logistic regression in R
+-   [INTRODUCTION TO GENERALIZED LINEAR MIXED MODELS](https://stats.oarc.ucla.edu/other/mult-pkg/introduction-to-generalized-linear-mixed-models/)
+    -   UCLA Statistical Methods and Data Analytics introduction to generalized linear mixed models (GLMMs)
+-   [Plotting partial pooling in mixed-effects models](https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/)
+    -   A few techniques for plotting partial pooling in mixed-effects models in R, by Tristan Mahr
+-   [Fixed- and Mixed-Effects Regression Models in R](https://ladal.edu.au/regression.html#Introduction)
+    -   Intro to Fixed- and Mixed-effects Regression models in R by Martin Schweinberger
+    -   The University of Queensland, Australia. School of Languages and Cultures
+-   [A Beginner’s Guide to Marginal Effects](https://data.library.virginia.edu/a-beginners-guide-to-marginal-effects/#fnref2)
+    -   University of Virginia Library Research Data Services + Sciences beginner's guide to marginal effects
+-   [Correlation of Fixed Effects in lme4](https://data.library.virginia.edu/correlation-of-fixed-effects-in-lme4/)
+-   [Getting Started with Multinomial Logit Models](https://data.library.virginia.edu/getting-started-with-multinomial-logit-models/)
+-   [Understanding Empirical Cumulative Distribution Functions](https://data.library.virginia.edu/understanding-empirical-cumulative-distribution-functions/)
+-   [Understanding QQ Plots](https://data.library.virginia.edu/understanding-q-q-plots/)
+-   [Understanding Diagnostic Plots for Linear Regression Analysis](https://data.library.virginia.edu/diagnostic-plots/)
+-   [Comparing Mixed-Effect Models in R and SPSS](https://data.library.virginia.edu/comparing-mixed-effect-models-in-r-and-spss/)
+
+
+-   [Getting Started with Generalized Estimating Equations](https://data.library.virginia.edu/getting-started-with-generalized-estimating-equations/)
+
+-   [Getting Started with Binomial Generalized Linear Mixed Models](https://data.library.virginia.edu/getting-started-with-binomial-generalized-linear-mixed-models/)
+-   [Getting Started with Web Scraping in Python](https://data.library.virginia.edu/getting-started-with-web-scraping-in-python/)
+
+-   [Convert Logit to Probability](https://sebastiansauer.github.io/convert_logit2prob/#:~:text=Conversion%20rule,%2F%20(1%20%2B%20odds)%20.)
+    -   Simple method on how to convert logit to probability
+    -   From Sebastian Sauer's PhD stats blog
+
+-   [Mathematical Annotation in R](https://data.library.virginia.edu/mathematical-annotation-in-r/)
+    -    How to include mathematical symbols and formulas in plots created with R
+
+-   [Andrew Heiss PhD Blog](https://www.andrewheiss.com/blog/)
+-   [MLM with R and brms to work with country-year panel data](https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/)
+-   [Calculate posterior predictions and average marginal effects with multilevel Bayesian models](https://www.andrewheiss.com/blog/2021/11/10/ame-bayes-re-guide/)
+
+-   [MLM Specification using lme4 package](http://www.rensenieuwenhuis.nl/r-sessions-16-multilevel-model-specification-lme4/)
+-   [lmer cheat sheet|Stackexchange](https://stats.stackexchange.com/questions/13166/rs-lmer-cheat-sheet)
+-   [lme/lmer to fit different two- and three-level longitudinal models](https://rpsychologist.com/r-guide-longitudinal-lme-lmer)
+    -   by Kristoffer Magnusson PhD
+-   [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/)
+    -   A whole thing made my Michael Clark
+-   [Statistical Rethinking Recoded](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+    -   Solomon Kurz essentially replicates Richard McElreath's textbook [*Statistical Rethinking*](http://xcelab.net/rm/statistical-rethinking/) using `brms` R package and `ggplot2`
+
+
+-   [Reliability Analysis](https://rpubs.com/hauselin/reliabilityanalysis)
+    -   Tutorial on how to conduct an analysis of reliability (i.e., internal consistency) using the `alpha` function from the R `psych` package
+    -   the `alpha` function reports two estimates of reliability: Cronbach's coefficient $\alpha$ and Guttman's Lambda 6 $\lambda_6$
+-   [Exploratory Factor Analysis in R](https://towardsdatascience.com/exploratory-factor-analysis-in-r-e31b0015f224)
+    -   Factor analysis is a method used to search for unobserved variables (i.e., factors) from observational data
+    -   This link only covers Exploratory Factor Analysis (EFA), not Conformatory Factor Analysis (CFA)
+-   [How, When, and Why Should you Normalize/Standardize/Rescale Your Data?](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
+    -   A thing I find useful
+    -   Doesn't use R, but (appears to be) python
+
+-   [Rescaling](https://www.theanalysisfactor.com/rescaling-variables-to-be-same/)
+    -   a short review on rescaling sets of variables to be on the same scale
+    -   not an R tutorial
+    -   by Chrisos Giannoulis, PhD
+-   [Centering and Standardizing Predictors](https://www.theanalysisfactor.com/centering-and-standardizing-predictors/)
+    -   a short review on the difference between centering and standardizing
+    -   by Karen Grace-Martin
+-   [How to Construct an Index for Research | ThoughtCo](https://www.thoughtco.com/index-for-research-3026543)
+    -   by Ashley Crossman
+    -   For of a review of concept and method, not an R tutorial
+    -   I find these helpful as a happy-medium between taking and reviewing my own piss-poor notes and diving into some textbook chapter I failed to bookmark.
+
+-   [Scales Used in Social Science Research | ThoughtCo](https://www.thoughtco.com/scales-used-in-social-science-research-3026542)
+    -   another by Ashley Crossman. This time on scales
+
+-   [Cluster Analysis and How Its Used in Research | ThoughtCo](https://www.thoughtco.com/cluster-analysis-3026694)
+    -   by Ashley Crossman again
+-   [Principal Components and Factor Analysis | ThoughtCo](https://www.thoughtco.com/principal-factor-analysis-3026699)
+    -   Brief Ashley Crossman article on Principal Components Analysis (PCA) and Factor Analysis (FA)
+
+-   [Robust Regression using R](http://www.alastairsanderson.com/R/tutorials/robust-regression-in-R/)
+    -   Regression tutorial by Alastair Sanderson
+

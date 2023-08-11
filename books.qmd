@@ -4,22 +4,16 @@ title: "Books"
 
 # Links to books
 
+This is a list I've gathered of various books available online (and possibly download to PDF). Many are commonly known, some are better than others. I have yet to organize this list into coherent categories. Right now, there's a mix of content here which ranges from "How to do R/RStudio/Quarto" books to "How to do/understand statistics for babies and adults" to "How to research methods for political scientists" to "Data science/analysis with R/Python/Quarto for Humans and Vampires". All of this stuff overlaps to some extent, so current organization is fickle. I haven't read through most of these, but neither have you so whatever.
+
+
 -   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
     - Absolute Must.
 -   [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+-   [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 -   [R Cookbook, 2nd Edition](https://rc2e.com/)
 -   [R Companion to Real Econometrics](https://bookdown.org/carillitony/bailey/)
 -   [R For Data Science](https://r4ds.had.co.nz/index.html)
--   [Moderndive: Statistical Inference via Data Science](https://moderndive.com/index.html)
-    -   Also see [Learn the tidyverse](https://www.tidyverse.org/learn/) which provides links to a few more related topics.
--   [STAT 545: Data Wrangling, Exploration, and Analysis with R](https://stat545.com/)
-    -   This site is about everything that comes up during data analysis [except for statistical modelling and inference]{.highlight}.
--   [R for Researchers: An Introduction](https://tysonbarrett.com/Rstats/index.html)
--   [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
-
--   [What They Forgot to Teach You About R:](https://rstats.wtf/) The stuff you need to know about R, besides statistical analysis.
--   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
--   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 -   [R Packages (2e)](https://r-pkgs.org/)
 -   [R Books](https://github.com/RomanTsegelskyi/rbooks)
     -   "A curated list of books about different aspects and applications of R programming language and an attempt to modernize R Books in a more user friendly way."
@@ -28,12 +22,30 @@ title: "Books"
     -   Here is an [archive](https://bookdown.org/home/archive/) that lists even more books from bookdown
     -   [The actual bookdown book by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 -   [RMarkdown for Scientists](https://rmd4sci.njtierney.com/)
--   [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
--   [Telling Stories with Data With Applications in R](https://tellingstorieswithdata.com/)
+-   [What They Forgot to Teach You About R:](https://rstats.wtf/) The stuff you need to know about R, besides statistical analysis.
+-   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 -   [Advanced R](https://adv-r.hadley.nz/)
     -   Yeah right. One day I'll read this. No I won't. 
+
+## Stats and Methods and Maths, Oh My!
+
+-   [Moderndive: Statistical Inference via Data Science](https://moderndive.com/index.html)
+    -   Also see [Learn the tidyverse](https://www.tidyverse.org/learn/) which provides links to a few more related topics.
+
+-   [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/josiesmith/qrmbook/)
+
+-   [Lab Guide to Quantitative Research Methods in Political Science, Public Policy & Public Administration.](https://bookdown.org/josiesmith/labbook/)
+    -   companion book to open-source textbook listed above
+
+
+-   [STAT 545: Data Wrangling, Exploration, and Analysis with R](https://stat545.com/)
+    -   This site is about everything that comes up during data analysis [except for statistical modelling and inference]{.highlight}.
 -   [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
 -   [Foundations of Statistics with R](https://bookdown.org/speegled/foundations-of-statistics/)
+-   [R for Researchers: An Introduction](https://tysonbarrett.com/Rstats/index.html)
+-   [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
+-   [Telling Stories with Data With Applications in R](https://tellingstorieswithdata.com/)
 -   [Learning statistics with R: A tutorial for psychology students and other beginners](https://learningstatisticswithr.com/book/)
 -   [Learning Statistics with R](https://learningstatisticswithr.com/)
 -   [R for Psychological Science](https://psyr.djnavarro.net/)

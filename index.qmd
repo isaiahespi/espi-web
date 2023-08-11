@@ -4,10 +4,3 @@ title: "Welcome!"
 
 Hi. I'm Isaiah. This is my website. I made it using [Quarto](https://quarto.org/docs/websites). It's a work in progress.
 
-
-```{r}
-1 + 1
-```
-
-
-Here is an example of `inline code` so that I can verify its look.

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Espi Web"
+  title: "Isaiah Espinoza"
   favicon: images/logo.png
   site-url: https://isaiahespi.github.io/espi-web/
   repo-url: https://github.com/isaiahespi/espi-web
@@ -17,10 +17,6 @@ website:
       - icon: github
         href: https://github.com/isaiahespi
         aria-label: GitHub
-  comments: 
-    hypothesis:
-      theme: clean
-      openSidebar: false
   navbar: 
     title: false
     logo: images/logo2.png
@@ -35,9 +31,10 @@ website:
     left:
       - file: index.qmd
         text: Home
-      - about.qmd
       - sidebar:tutorials
       - sidebar:resources
+      - text: C.V.
+        file: cv.qmd
   sidebar:
     - id: tutorials
       title: "Tutorials"
@@ -52,7 +49,6 @@ website:
       contents:
         - resources.qmd
         - books.qmd
-        - packages.qmd
         - methods.qmd
 
         

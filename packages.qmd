@@ -1,6 +1,11 @@
 
 # Books and Documentation related to various R Packages
 
+There's, what, gabazillions of R packages out there? Some are useful, some suck, and it takes more than a few late nights to learn how to tell the difference. Learning R and subsequently how to build your own R package is probably the best way to start from a solid foundation. But who the hell starts with a solid foundation? Not I, for one. So I've gathered a bunch of packages that have been useful, are consistently useful, or might be useful later, for the kind of things I do in R/RStudio/Quarto.
+
+-   [Tidyverse](https://www.tidyverse.org/)
+    -   [moderndive](https://moderndive.github.io/moderndive/)
+
 -   [Officeverse](https://ardata-fr.github.io/officeverse/index.html)
 
 
