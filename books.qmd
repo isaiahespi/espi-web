@@ -2,20 +2,39 @@
 title: "Books"
 ---
 
-# Links to books
+This is a list I've gathered of various books available online (and possibly download to PDF). 
 
-This is a list I've gathered of various books available online (and possibly download to PDF). Many are commonly known, some are better than others. I have yet to organize this list into coherent categories. Right now, there's a mix of content here which ranges from "How to do R/RStudio/Quarto" books to "How to do/understand statistics for babies and adults" to "How to research methods for political scientists" to "Data science/analysis with R/Python/Quarto for Humans and Vampires". All of this stuff overlaps to some extent, so current organization is fickle. I haven't read through most of these, but neither have you so whatever.
+Really, there's already an [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources#books) Github repository with a similar list of books and other resources specific to R, data science, statistics, etc. Many books I have listed on this page overlap with the list from that link, but not all. Some of the links listed on that page are dead. I actually didn't realize that Awesome R list of resources existed until...today (August 2023). So everything below are links to books I found on my own as I was struggling and hyper-fixating on the wrong things. "IF ONLY SOMEONE HAD TOLD ME, GUIDED ME" I say to myself as I perpetuate the ruthless cycle.
 
+
+Many of these books are commonly known, some are better than others. I have yet to organize this list into coherent categories. Right now, there's a mix of content here which ranges from 
+
+-   "How to do R/RStudio/Quarto" to,
+-   "How to do/understand statistics for babies and adults" to, 
+-   "How to research methods for political scientists" to, 
+-   "Data science/analysis with R/Python/Quarto for Humans and Vampires". 
+
+All of this stuff overlaps to some extent, so current organization is fickle. I haven't read through most of these, but neither have you so whatever.
+
+
+-   [R For Data Science, 2nd Edition](https://r4ds.hadley.nz/)
+-   [Tidy Modeling with R](https://www.tmwr.org/)
 
 -   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
-    - Absolute Must.
+    -   If you write in RStudio/Quarto, you still need this. 
 -   [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 -   [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 -   [R Cookbook, 2nd Edition](https://rc2e.com/)
+
+
+
+
 -   [R Companion to Real Econometrics](https://bookdown.org/carillitony/bailey/)
--   [R For Data Science](https://r4ds.had.co.nz/index.html)
+    -    This goes better with the actual book, which isn't listed. Get the book.
+
 -   [R Packages (2e)](https://r-pkgs.org/)
--   [R Books](https://github.com/RomanTsegelskyi/rbooks)
+
+-   Oh look, another curated list of [R Books](https://github.com/RomanTsegelskyi/rbooks)
     -   "A curated list of books about different aspects and applications of R programming language and an attempt to modernize R Books in a more user friendly way."
 -   [Bookdown: Write HTML, PDF, ePub, and Kindle books with R Markdown](https://bookdown.org/)
     -   This leads to another list of books that are helpful for authoring books.
@@ -29,6 +48,9 @@ This is a list I've gathered of various books available online (and possibly dow
     -   Yeah right. One day I'll read this. No I won't. 
 
 ## Stats and Methods and Maths, Oh My!
+
+-   [](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
+-   [Advanced Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-2/)
 
 -   [Moderndive: Statistical Inference via Data Science](https://moderndive.com/index.html)
     -   Also see [Learn the tidyverse](https://www.tidyverse.org/learn/) which provides links to a few more related topics.
