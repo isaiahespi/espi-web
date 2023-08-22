@@ -31,27 +31,26 @@ website:
     left:
       - file: index.qmd
         text: Home
-      - sidebar:tutorials
-      - sidebar:resources
+      - text: "Resources"
+        file: resources.qmd
+      - text: "Tutorials"
+        file: tutorials.qmd
       - text: C.V.
         file: cv.qmd
+
   sidebar:
-    - id: tutorials
-      title: "Tutorials"
+    - title: "Tutorials"
       style: "docked"
       background: dark
-      collapse-level: 2
       contents:
         - tutorials.qmd
         
-    - id: resources
-      title: "Resources"
+    - title: "Resources"
       contents:
         - resources.qmd
         - books.qmd
         - methods.qmd
 
-        
         
 format:
   html:
